@@ -6,15 +6,6 @@ theme = "PaperMod"
 [params]
   author = "biotin"
   description = "分享技术、生活与思考"
-  homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
-
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+  darkMode = "auto"
+  search = true
   
-[params.search]
-  enable = true
