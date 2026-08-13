@@ -1,6 +1,6 @@
 baseURL = "https://Biotin-2small.github.io/"
 locale = "zh-cn"
-title = "测试网站"
+title = "关注biotin喵，关注biotin谢谢喵"
 theme = "PaperMod"
 
 [params]
@@ -8,3 +8,15 @@ theme = "PaperMod"
   description = "分享技术、生活与思考"
   darkMode = "auto"
   search = true
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = 10
+[[menu.main]]
+  name = "归档"
+  url = "/archives/"
+  weight = 20
+[[menu.main]]
+  name = "搜索"
+  url = "/search/"
+  weight = 30

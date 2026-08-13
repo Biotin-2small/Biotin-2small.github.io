@@ -1,8 +1,10 @@
-+++
-date = '2026-08-13T20:17:41+08:00'
-draft = false
-title = 'My First Post'
-+++
+---
+title: "我的第一篇文章"
+date: 2026-08-14T10:00:00+08:00
+draft: false
+categories: ["技术", "教程"]
+tags: ["Hugo", "测试"]
+---
 # 测试一下，这是我的第一篇博客
 ## 二级标题
 ### 周君睿
