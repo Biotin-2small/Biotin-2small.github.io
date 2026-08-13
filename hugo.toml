@@ -2,7 +2,6 @@ baseURL = "https://Biotin-2small.github.io/"
 locale = "zh-cn"
 title = "测试用个人网站"
 theme = "PaperMod"
-
 [params]
   author = "biotin"
   description = "分享技术、生活与思考"
