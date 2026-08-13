@@ -6,3 +6,13 @@ theme = "PaperMod"
 [params]
   author = "biotin"
   description = "分享技术、生活与思考"
+
+  
+[params.search]
+  enable = true
+toml
+[menu.main]
+  [[menu.main]]
+    name = "搜索"
+    url = "/search/"
+    weight = 30
