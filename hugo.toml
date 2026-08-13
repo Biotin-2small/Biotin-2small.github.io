@@ -6,11 +6,6 @@ theme = "PaperMod"
 [params]
   author = "biotin"
   description = "分享技术、生活与思考"
-
-  
-[params.search]
-  enable = true
-params:
   homeInfoParams:
     Title: Hi there wave
     Content: Can be Info, links, about...
@@ -20,3 +15,6 @@ params:
       url: "<link>"
     - name: "<platform 2>"
       url: "<link2>"
+  
+[params.search]
+  enable = true
