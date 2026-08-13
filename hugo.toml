@@ -10,7 +10,6 @@ theme = "PaperMod"
   
 [params.search]
   enable = true
-toml
 [menu.main]
   [[menu.main]]
     name = "搜索"
