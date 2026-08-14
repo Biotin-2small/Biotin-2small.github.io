@@ -8,15 +8,38 @@ theme = "PaperMod"
   description = "分享技术、生活与思考"
   darkMode = "auto"
   search = true
-[[menu.main]]
-  name = "首页"
-  url = "/"
-  weight = 10
-[[menu.main]]
-  name = "归档"
-  url = "/archives/"
-  weight = 20
-[[menu.main]]
-  name = "搜索"
-  url = "/search/"
-  weight = 30
+  showSocialIcons = true
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Biotin-2small"
+  # 其他已有配置...
+
+  # 开启评论
+  comments = true
+
+  [params.giscus]
+    repo = "Biotin-2small/Biotin-2small.github.io"
+    repoID = "R_kgDOT3WVVg"          # 填入你的 repo-id
+    category = "Announcements"    # 填入你的 category
+    categoryID = "DIC_kwDOT3WVVs4DDXGU"    # 填入你的 category-id
+    mapping = "pathname"
+    reactionsEnabled = "1"
+    emitMetadata = "0"
+    inputPosition = "bottom"
+    theme = "preferred_color_scheme"
+    lang = "zh-CN"
+[menu]
+  [[menu.main]]
+    name = "首页"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "归档"
+    url = "/archives/"
+    weight = 20
+  [[menu.main]]
+    name = "搜索"
+    url = "/search/"
+    weight = 30
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
