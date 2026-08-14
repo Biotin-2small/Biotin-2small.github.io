@@ -31,10 +31,8 @@ theme = "PaperMod"
 
   # 是否显示代码复制按钮
   ShowCodeCopyButtons = true
-  # 是否显示标签
-  ShowAllPagesInArchive = true
 
-  # 是否显示所有分类
+  # 是否显示标签
   ShowAllPagesInArchive = true
 
   # 是否显示页面总数
