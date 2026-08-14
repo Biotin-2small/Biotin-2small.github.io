@@ -9,9 +9,6 @@ theme = "PaperMod"
   darkMode = "auto"
   search = true
   showSocialIcons = true
-  [[params.socialIcons]]
-    name = "github"
-    url = "https://github.com/Biotin-2small"
   # 其他已有配置...
 
   # 开启评论
