@@ -32,9 +32,6 @@ theme = "PaperMod"
   # 是否显示代码复制按钮
   ShowCodeCopyButtons = true
 
-  # 是否显示标签
-  ShowAllPagesInArchive = true
-
   # 是否显示页面总数
   ShowPageNums = true
 
@@ -43,7 +40,7 @@ theme = "PaperMod"
 
   # 是否显示文章最后修改时间
   ShowLastMod = true
-  
+
   # 是否在标题栏显示站点标题
   ShowSiteTitle = true
 
