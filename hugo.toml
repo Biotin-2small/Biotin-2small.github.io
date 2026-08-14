@@ -14,6 +14,49 @@ theme = "PaperMod"
   # 开启评论
   comments = true
 
+  # 是否显示面包屑导航
+  ShowBreadCrumbs = true
+
+  # 是否显示文章阅读时间
+  ShowReadingTime = true
+
+  # 是否显示文章字数
+  ShowWordCount = true
+
+  # 是否显示分享按钮
+  ShowShareButtons = true
+
+  # 是否显示上一页/下一页
+  ShowPostNavLinks = true
+
+  # 是否显示代码复制按钮
+  ShowCodeCopyButtons = true
+  # 是否显示标签
+  ShowAllPagesInArchive = true
+
+  # 是否显示所有分类
+  ShowAllPagesInArchive = true
+
+  # 是否显示页面总数
+  ShowPageNums = true
+
+  # 是否显示文章作者
+  ShowPostAuthors = true
+
+  # 是否显示文章最后修改时间
+  ShowLastMod = true
+  # 是否显示面包屑
+  ShowBreadCrumbs = true
+
+  # 是否在标题栏显示站点标题
+  ShowSiteTitle = true
+
+  # 是否显示页脚
+  ShowFooter = true
+
+  # 是否显示“回到顶部”按钮
+  ShowBackToTop = true
+
   [params.giscus]
     repo = "Biotin-2small/Biotin-2small.github.io"
     repoID = "R_kgDOT3WVVg"          # 填入你的 repo-id
