@@ -43,9 +43,7 @@ theme = "PaperMod"
 
   # 是否显示文章最后修改时间
   ShowLastMod = true
-  # 是否显示面包屑
-  ShowBreadCrumbs = true
-
+  
   # 是否在标题栏显示站点标题
   ShowSiteTitle = true
 
